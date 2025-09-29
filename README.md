@@ -5,7 +5,6 @@
 A lightweight, minimal calculator built with **HTML, CSS, and JavaScript**.  
 Fast, clean, and responsive — perfect for quick calculations or as a starting point for your own calculator projects.
 
-![Preview](./preview.jpeg)
 
 ---
 
